@@ -1,0 +1,12 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ntsc -w"
+  },
+  "keywords": [],
+  "author": "Thomas Leiter",
+  "license": "ISC"
+}
