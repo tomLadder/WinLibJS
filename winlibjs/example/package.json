@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ntsc -w"
+    "compile": "ntsc -w",
+    "start": "node ./dist/index.js"
   },
   "keywords": [],
   "author": "Thomas Leiter",
