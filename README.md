@@ -1,10 +1,11 @@
-<img src="https://raw.githubusercontent.com/tomLadder/WinLib/master/img/windows.ico?token=ATcsxAu58VVfJrYKnVm-L-x_C8QBYIzsks5Z9dBmwA%3D%3D" align="left" width="192px" height="192px"/>
+<img src="https://raw.githubusercontent.com/tomLadder/WinLibJS/master/img/windows.ico?token=ATcsxKL_-0VXSMSv3Uz7NCUfcYY0Er_Iks5Z_Yo_wA%3D%3D" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
 # WinLibJS
 > Windows Manipulation Library - Typescript/Javascript Wrapper
 
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 </br>
 </br>
