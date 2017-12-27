@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tomLadder/WinLibJS/master/img/windows.ico?token=ATcsxKL_-0VXSMSv3Uz7NCUfcYY0Er_Iks5Z_Yo_wA%3D%3D" align="left" width="192px" height="192px"/>
+<img src="https://raw.githubusercontent.com/tomLadder/WinLibJS/master/img/windows.ico?token=ATcsxFifhQJnu2EdIkfatZtg2JnUFeTfks5aTK7-wA%3D%3D" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
 # WinLibJS
